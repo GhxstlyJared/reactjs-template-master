@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.1",
   "type": "module",
-  "homepage": "https://GhxstlyJared.github.io/reactjs-template",
+  "homepage": "https://GhxstlyJared.github.io/reactjs-template-master/",
   "scripts": {
     "deploy": "gh-pages -d dist",
     "dev": "vite",
